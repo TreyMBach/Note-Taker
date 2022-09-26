@@ -34,3 +34,51 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+# Note Taker
+
+## Description
+
+To be able to use the web application to make notes and be able to upload them using express.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## Table of Contents 
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#Questions)
+
+## Installation
+
+Express, Inquirer
+
+## Usage
+
+You would open the web application and type notes.
+
+## Credits
+
+None
+
+## License
+
+This is under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
+
+---
+
+## Tests
+
+None
+
+
+## Questions
+
+If you would like to contact me for any questions or possible freelance work reach out to me to my links:
+- https://github.com/TreyMBach
+- https://www.linkedin.com/in/trey-bach-191183200/
+- treybachyt@gmail.com
